@@ -11,6 +11,9 @@ Welcome to my project! You can find the latest release and release notes in the 
 ## **Dashboard Page:**
 ![Local Image](Dashboard.JPG)
 
+## **Details Page:**
+![Local Image](Details.JPG)
+
 ## **Add Client Page:**
 ![Local Image](Addclient.JPG)
 
