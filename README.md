@@ -1,7 +1,5 @@
 # VINQO-CAR
 
-[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQO-CAR?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQO-CAR/releases/tag/CAR)
-
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQO-CAR/releases) section.
 
 ## **Welcome Page:**
