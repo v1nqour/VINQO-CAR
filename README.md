@@ -1,22 +1,26 @@
 # VINQO-CAR
 
+[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQO-CAR?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQO-CAR/releases/tag/CAR)
 
-[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQO-ADMIN?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQO-ADMIN/releases/tag/ADMIN)
+Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQO-CAR/releases) section.
 
-Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQO-ADMIN/releases) section. 
+## **Welcome Page:**
+![Local Image](Welcome.JPG)
 
-## **Control Panel Page:**
-![Local Image](ControlPanel.JPG)
+## **Sign In Page:**
+![Local Image](Signin.JPG)
 
 ## **Dashboard Page:**
-![Local Image](UsersPanel.JPG)
+![Local Image](Dashboard.JPG)
 
-## **Register Page:**
-![Local Image](Register.JPG)
+## **Add Client Page:**
+![Local Image](Addclient.JPG)
 
 ## **Update Page:**
-![Local Image](UpdateUser.JPG)
+![Local Image](Update.JPG)
 
+## **Account Activation Pages:**
+![Local Image](Actication.JPG)
 
 ### To set up a ***Laravel*** project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal:
@@ -38,3 +42,4 @@ Welcome to my project! You can find the latest release and release notes in the 
 
 
 ## *BY MOUSTAKIR Wassim*
+
